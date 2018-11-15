@@ -1,0 +1,16 @@
+#for layer_idx1 in range(0, 18):
+fig = plt.figure()
+# fig.subplots_adjust(hspace=1)
+for output_idx in np.arange(0, 32):
+    # Lets turn off verbose output this time to avoid clutter and just see the output.
+    number = 430 + output_idx
+    ax = fig.add_subplot(6, 6, output_idx + 1)
+    tv_weight1 = 1e-2
+    img = cc2[:,:,:,output_idx];
+    # plt.title('Networks perception of {}'.format(output_idx+1))
+    ax.imshow(img)
+    plt.xticks([])
+    plt.yticks([])
+    plt.tight_layout()
+plt.show()
+    #fig.savefig("cifar10_layer_number_" + str(layer_idx1) + '_tv_weights_' + str(tv_weight1) + '_new_design_nov11.jpg')

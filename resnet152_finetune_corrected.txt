@@ -1,0 +1,31 @@
+training accuracy for bn5c_branch2a
+Cross Validation Accuracy = 76.6%
+testing accuracy for bn5c_branch2a
+Accuracy = 73.0667% (2192/3000) (classification)
+training accuracy for res4b4_branch2a
+Cross Validation Accuracy = 52.8667%
+testing accuracy for res4b4_branch2a
+Accuracy = 55.5% (1665/3000) (classification)
+training accuracy for res3a_branch2a
+Cross Validation Accuracy = 24.9%
+testing accuracy for res3a_branch2a
+Accuracy = 24.9% (747/3000) (classification)
+.
+
+
+training accuracy for bn5c_branch2a
+Cross Validation Accuracy = 76.6%
+testing accuracy for bn5c_branch2a
+Accuracy = 73.0667% (2192/3000) (classification)
+training accuracy for res4b4_branch2a
+Cross Validation Accuracy = 52.8667%
+testing accuracy for res4b4_branch2a
+Accuracy = 55.5% (1665/3000) (classification)
+training accuracy for res3a_branch2a
+Cross Validation Accuracy = 24.9%
+testing accuracy for res3a_branch2a
+Accuracy = 24.9% (747/3000) (classification)
+training accuracy for res2a_branch2a
+Cross Validation Accuracy = 15.8%
+testing accuracy for res2a_branch2a
+Accuracy = 15.2667% (458/3000) (classification)
